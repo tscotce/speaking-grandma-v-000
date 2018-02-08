@@ -13,5 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
-  
+  if phrase = upper
+    puts "HUH?! SPEAK UP, SONNY!"
+  end
 end
